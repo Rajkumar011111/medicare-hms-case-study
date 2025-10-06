@@ -5,7 +5,7 @@
 **One-line:** Reduced average OPD wait time by **20%** using data-driven scheduling and a Power BI operations dashboard.
 
 ## Case study (PDF)
-[View the one-page case study](case_study.pdf)
+[View the one-page case study](medicare-case-study-rajkumar.pdf)
 
 ## Demo
 ![Dashboard demo](dashboard/demo.gif)
